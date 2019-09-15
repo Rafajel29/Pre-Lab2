@@ -12,12 +12,13 @@ My 10 ideas for using the timer of the micro controller
 
 5) Timer that can be used for cooking.
 
-6) A chess clock that has two times. One counts down while its the players turn then when he presses the button indicating the other persons turn his stop and the other persons clock start counting down.
+6) A chess clock that has two times. One counts down while it’s the players turn then when he presses the button indicating the other persons turn his stop and the other persons clock start counting down.
 
 7) LED's will flash in a pattern and then you need to press buttons in the same pattern afterwards.
 
-8) Russian roullete where if you press the button you get either green or red then the next person must press until someone gets red.
+8) Russian roulette where if you press the button you get either green or red then the next person must press until someone gets red.
 
-9) A timer for studying helping to indicate when it's ime for a break.
+9) A timer for studying helping to indicate when it's time for a break.
 
-10) You can make a fitness beep test from it. Where it beeps you have to then reach a point before it beeps again then back again with pauses between beep getting shorter and shorter.
+10) You can make a fitness beep test from it. Where it beeps you must then reach a point before it beeps again then back again with pauses between beep getting shorter and shorter.
+
