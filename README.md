@@ -22,3 +22,7 @@ My 10 ideas for using the timer of the micro controller
 
 10) You can make a fitness beep test from it. Where it beeps you must then reach a point before it beeps again then back again with pauses between beep getting shorter and shorter.
 
+![](Images/20190915_215750.jpg)
+![](Images/20190915_215804.jpg)
+
+
